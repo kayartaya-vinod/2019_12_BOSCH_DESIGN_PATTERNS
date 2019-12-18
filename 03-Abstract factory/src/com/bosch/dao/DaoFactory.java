@@ -7,7 +7,8 @@ public abstract class DaoFactory {
 	static class Holder {
 		private static DaoFactory instance = null; 
 		static {
-			ResourceBundle rb = ResourceBundle.getBundle("application");
+			
+			ResourceBundle rb = ResourceBundle.getBundle("asdf");
 			String factoryImplClass = rb.getString("dao.factory.impl");
 			// for example, factoryImplClass = "com.bosch.dao.JdbcDaoFactory"
 			try {
@@ -16,6 +17,7 @@ public abstract class DaoFactory {
 				e.printStackTrace();
 			}
 		}
+		
 	}
 	
 	public static DaoFactory getInstance() {
