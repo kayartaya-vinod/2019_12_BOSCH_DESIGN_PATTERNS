@@ -1,3 +1,6 @@
+Covers all:
+https://sourcemaking.com/design_patterns
+
 
 https://martinfowler.com/eaaCatalog/
 
