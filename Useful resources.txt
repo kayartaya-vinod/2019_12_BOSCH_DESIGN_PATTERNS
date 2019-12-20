@@ -1,0 +1,12 @@
+
+https://martinfowler.com/eaaCatalog/
+
+https://martinfowler.com/articles/enterprisePatterns.html
+
+https://dzone.com/articles/functional-programming-patterns-with-java-8
+
+https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
+
+https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e
+
+https://medium.com/@ajaysreeram/design-patterns-using-lambdas-in-java-89a6d8d6d004
